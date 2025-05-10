@@ -71,3 +71,26 @@ expense-tracker/
 │ └── package.json
 │
 └── README.md
+
+## Setting Up the backend 
+
+cd backend
+npm install
+
+
+##Create a .env file:
+
+
+PORT=5000
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_jwt_secret
+Start backend server:
+
+
+npm start
+Runs on http://localhost:5000
+
+
+
+
+
