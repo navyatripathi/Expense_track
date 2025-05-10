@@ -91,6 +91,19 @@ npm start
 Runs on http://localhost:5000
 
 
+## Setting uo the frontend 
+
+cd frontend
+npm install
+npm start
+Runs on http://localhost:3000
+
+
+
+
+
+
+
 
 
 
