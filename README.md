@@ -112,6 +112,10 @@ DELETE  	/api/transactions/:id         	Delete a transaction
 
 
 
+## Authentication
+Uses JWT for secure authentication and route protection. Token is stored in localStorage on
+the client side and sent in the Authorization header.
+
 
 
 
