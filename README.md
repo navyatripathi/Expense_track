@@ -99,6 +99,18 @@ npm start
 Runs on http://localhost:3000
 
 
+## API Endpoints
+Method	       Endpoint               	Description
+POST	    /api/users/login              	Login user
+POST	    /api/users/register	           Register user
+GET	     /api/transactions	             Get all transactions
+POST	    /api/transactions	             Add a new transaction
+PUT	     /api/transactions/:id          Edit a transaction
+DELETE  	/api/transactions/:id         	Delete a transaction
+
+
+
+
 
 
 
